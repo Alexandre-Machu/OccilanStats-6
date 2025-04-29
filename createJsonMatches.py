@@ -46,13 +46,14 @@ else:
             end_date = datetime(2025, 4, 27, 23, 59, 59)
             start_time = int(time.mktime(start_date.timetuple()))
             end_time = int(time.mktime(end_date.timetuple()))
-            count = int(25)
+            count = int(50)
+            type = "tourney"
 
             # Endpoint pour obtenir les informations de la partie
             endpoint = f"/lol/match/v5/matches/by-puuid/{puuid}/ids"
 
             # Construire l'URL complète avec la clé API et les paramètres de temps
-            api_url_match = f"{base_url}{endpoint}?count={count}&startTime={start_time}&endTime={end_time}&api_key={api_key}"
+            api_url_match = f"{base_url}{endpoint}?count={count}&type={type}&startTime={start_time}&endTime={end_time}&api_key={api_key}"
 
             # Effectuer la requête GET
             response = requests.get(api_url_match)
