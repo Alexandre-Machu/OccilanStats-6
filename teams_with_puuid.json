@@ -2,8 +2,9 @@
     "Bots Intermédiaires": [
         {
             "role": "Top",
-            "player_name": "dguhyp",
-            "player_tag": "EUW"
+            "player_name": "SeyZo",
+            "player_tag": "EUW",
+            "puuid": "k7WOs_KcaprKJVvojTw-JfdYx9agEiCuPJno5Fa7-UZ7R26um7FW7Ozbiqr-OZN7UEzSMtwM2wW2DA"
         },
         {
             "role": "Jungle",
@@ -14,7 +15,8 @@
         {
             "role": "Mid",
             "player_name": "Archimax",
-            "player_tag": "EUW"
+            "player_tag": "EUW",
+            "puuid": "Aw7-pmam3W_JqRAofWiyRoDVNs9bhN2soLXi4RMLLl8rLqgp-fSWLli8I_1geFpFIs5m2fsN7PYIVQ"
         },
         {
             "role": "ADC",
@@ -96,15 +98,15 @@
     "GIRL POWDER": [
         {
             "role": "Top",
-            "player_name": "LeGrosMarteau",
+            "player_name": "Romsito",
             "player_tag": "EUW31",
-            "puuid": "e7WjTzRJUCJKvPspplSt_UPWSbRprbdxewLnuHIu4_U_JPw1sQlgGRj90FwYnADQTFigvMCuIvRB1w"
+            "puuid": "xWniAAwvPrgNOIh4NTFJ5nY414l70FDWfvop6gl-j0EgbAOS10GwoHLlJkNMkFddknbusPF8hG71nQ"
         },
         {
             "role": "Jungle",
-            "player_name": "Υψιλον",
-            "player_tag": "000",
-            "puuid": "RI8TgljxaLfqJcBfNVuZ5q0XgC4SgIrkRZevPIZwFeCnRByPoKDHQJtvlN3sd51jNAMSMQNiLDFV9A"
+            "player_name": "Irisam",
+            "player_tag": "EUW",
+            "puuid": "NJ6Hpn3QBr6fIz6zjrfzneOG3XvL5zsAtiebEGezMhuVkFn8mX0gzO-9nL_9lp34lRFztxntV8WJQw"
         },
         {
             "role": "Mid",
@@ -120,8 +122,9 @@
         },
         {
             "role": "Support",
-            "player_name": "FF15 Lemonz",
-            "player_tag": "EUW31"
+            "player_name": "Lemonz",
+            "player_tag": "EUW31",
+            "puuid": "Gj3zF8KAUZyzGVee5Geb3RUTT9DO6QBs1OOfAjt6iffcVAPUHofaNwmfZS-gt8n2c-yNTGfeTzacsg"
         }
     ],
     "Gungnir": [
@@ -165,25 +168,27 @@
         },
         {
             "role": "Jungle",
-            "player_name": "Réservoir2pipi",
-            "player_tag": "Pisse"
-        },
-        {
-            "role": "Mid",
-            "player_name": "KCDQ matraque",
-            "player_tag": "666",
-            "puuid": "Ah6UbUC9Oo2RZUbj5YZxVUK4sZz2-h6exueNp1qq5nwyRATPJoLpBYa0m4RNSsl3-9FTm9G4k3op9A"
-        },
-        {
-            "role": "ADC",
             "player_name": "KCDQ Bangala",
-            "player_tag": "666",
+            "player_tag": 666,
             "puuid": "Of2XnRUzl8F2FoCtzXFNpLI3x94SIOPr6aBxm3-l24LE4tU77uhPR0UEYkLSBmAQ0Cz-lcagp18GwA"
         },
         {
-            "role": "Support",
+            "role": "Mid",
+            "player_name": "KCDQ Bazouzou",
+            "player_tag": "666",
+            "puuid": "AYe2JLE--4yG42whC5AxIsb-gdW2O-8chIGgHbJR3Nou-yZXXTtE8UdGSWc1dMQB-hzu5U1JzeqGsg"
+        },
+        {
+            "role": "ADC",
             "player_name": "KCDQ Shlong",
-            "player_tag": ""
+            "player_tag": "666",
+            "puuid": "G0rLDf20rQza9XozyJfT3GWhyYzPfGZtLXgWbJXai1JDRvF8jheOZLrwv3Ox9FKVXA4dqR9uH8n-Qg"
+        },
+        {
+            "role": "Support",
+            "player_name": "KCDQ matraque",
+            "player_tag": 666,
+            "puuid": "Ah6UbUC9Oo2RZUbj5YZxVUK4sZz2-h6exueNp1qq5nwyRATPJoLpBYa0m4RNSsl3-9FTm9G4k3op9A"
         }
     ],
     "La bande du PMU": [
@@ -291,8 +296,9 @@
         },
         {
             "role": "Jungle",
-            "player_name": "JAK ÉCLAIR",
-            "player_tag": "00000"
+            "player_name": "Jules Grizzli",
+            "player_tag": 9348,
+            "puuid": "yVWZFQ8fFkZXSOxWpsdBYfg8so1wdAEF6t9xnOa_kywtYuy-zKFNLsrsW9IrN0j_6q6UIZp5Kxvagw"
         },
         {
             "role": "Mid",
@@ -302,9 +308,9 @@
         },
         {
             "role": "ADC",
-            "player_name": "Tsuvai",
-            "player_tag": "520",
-            "puuid": "eedIrqJaRXX4iTjEYrZRentqURE1_PgSBp88z38yarMq7p7WDyZW007WTX9bn-heayJSnUTwHeHdpw"
+            "player_name": "Quetzalcoatl",
+            "player_tag": "EUWTA",
+            "puuid": "soRWfz2W5sJLDRskzcaWpT2DsktOdpo9ood80qt0d8fxrYa-SCbGfr9x1sCC4kllrOMfJaVpwt87pQ"
         },
         {
             "role": "Support",
@@ -366,13 +372,15 @@
         },
         {
             "role": "ADC",
-            "player_name": "gentil",
-            "player_tag": "sympa"
+            "player_name": "gourmetplantaire",
+            "player_tag": "sympa",
+            "puuid": "1AyKuXuaAMhMytZ3IILILQHvz2v0jvLdFNHQ0TubP2ZPYNEFY3Nu6tDdxbpKLZ1MW6fS-xyQbUIMHg"
         },
         {
             "role": "Support",
-            "player_name": "killycurly",
-            "player_tag": "mrc"
+            "player_name": "Killycurly",
+            "player_tag": 420,
+            "puuid": "ZwFspWAKhc1McSIFlw8pxhVJUTur8pM1cL_0mPHX8WRgobkcosclnQip4G5pWkC15igHgtL4m6YcWg"
         }
     ],
     "Pas de quartier": [
@@ -442,13 +450,15 @@
     "Pipi Gaming": [
         {
             "role": "Top",
-            "player_name": "Zerkome",
-            "player_tag": "EUW03"
+            "player_name": "NEP Zerkome",
+            "player_tag": "EUW03",
+            "puuid": "9NHvV3I6_ybDmU6gwwM1_X0cajsIrcaueFrXu1VlBccRZHUQ5HSXzBBeFIvT5pG_7lTz_GoiCn6FdQ"
         },
         {
             "role": "Jungle",
             "player_name": "caca anonyme 2",
-            "player_tag": "EUW"
+            "player_tag": "uno",
+            "puuid": "aJFTf0yvt7ErFV6vx84Xsjfc94F_ZIvCXrPU6JFungk_tHDOBL8bC0a-sAxjmgDTISVFJ0u1wVcVkA"
         },
         {
             "role": "Mid",
@@ -465,7 +475,8 @@
         {
             "role": "Support",
             "player_name": "RR D1",
-            "player_tag": "uno"
+            "player_tag": "EUW",
+            "puuid": "HIONcLx95FyAe2cMatBLy7CM1oIb7G8r1hWCjeTYyvO0DKh04NXf6Zx6IaM5KDd03JroV8ydS4hU3w"
         }
     ],
     "zizicacacorp": [
