@@ -1,0 +1,52 @@
+{
+    "total_kills": {
+        "team": "La Ruche",
+        "player": "Thibee",
+        "value": 152
+    },
+    "total_deaths": {
+        "team": "La Ruche",
+        "player": "Colfeo",
+        "value": 76
+    },
+    "total_assists": {
+        "team": "La Ruche",
+        "player": "Xintox",
+        "value": 282
+    },
+    "average_kills": {
+        "team": "KCDQ",
+        "player": "KCDQ Bangala",
+        "value": 8.0
+    },
+    "average_deaths": {
+        "team": "EC Emerald",
+        "player": "Cygola",
+        "value": 7.0
+    },
+    "average_assists": {
+        "team": "Mickey Mouse Club",
+        "player": "Killycurly",
+        "value": 13.6
+    },
+    "average_kda": {
+        "team": "La Ruche",
+        "player": "climber",
+        "value": 6.2
+    },
+    "average_cs_per_minute": {
+        "team": "La Ruche",
+        "player": "Thibee",
+        "value": 9.9
+    },
+    "unique_champions_played": {
+        "team": "La Ruche",
+        "player": "Thibee",
+        "value": 12
+    },
+    "average_vision_score": {
+        "team": "Gungnir",
+        "player": "Bob Le Tripoteur",
+        "value": 103.0
+    }
+}
