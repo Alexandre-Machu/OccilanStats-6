@@ -411,7 +411,7 @@ else:
                 ws_summary.freeze_panes = 'A2'
 
                 # Enregistrer le fichier Excel
-                wb.save("Occi'lan #6.xlsx")
+                wb.save("Occi'lan #6 - La Ruche.xlsx")
                 print("Fichier Excel généré avec succès.")
             else:
                 print(f"Erreur lors de la requête : {response.status_code}")
