@@ -1,0 +1,52 @@
+{
+    "total_kills": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "total_deaths": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "total_assists": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "average_kills": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "average_deaths": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "average_assists": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "average_kda": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "average_cs_per_minute": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "unique_champions_played": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    },
+    "average_vision_score": {
+        "team": null,
+        "player": null,
+        "value": -Infinity
+    }
+}

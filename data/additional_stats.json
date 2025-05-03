@@ -1,0 +1,34 @@
+{
+    "longest_game": {
+        "detail": null,
+        "value": 0
+    },
+    "shortest_game": {
+        "detail": null,
+        "value": Infinity
+    },
+    "most_kills_in_game": {
+        "detail": null,
+        "value": 0
+    },
+    "least_kills_in_game": {
+        "detail": null,
+        "value": Infinity
+    },
+    "most_selected_champion": {
+        "detail": "Aucun",
+        "value": 0
+    },
+    "least_selected_champion": {
+        "detail": "Aucun",
+        "value": 0
+    },
+    "most_banned_champion": {
+        "detail": "Aucun",
+        "value": 0
+    },
+    "least_banned_champion": {
+        "detail": "Aucun",
+        "value": 0
+    }
+}
