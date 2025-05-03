@@ -1,7 +1,7 @@
 # OccilanStats
 
 ## Description
-OccilanStats est un outil d'analyse de statistiques pour les tournois League of Legends de l'Occilan. Il collecte, analyse et présente les statistiques des matchs dans un fichier Excel détaillé.
+OccilanStats est un outil d'analyse de statistiques pour les tournois League of Legends de l'Occilan. Il collecte et analyse les données des matchs pour générer un rapport détaillé.
 
 ## Prérequis
 - Python 3.10+
@@ -14,7 +14,7 @@ OccilanStats est un outil d'analyse de statistiques pour les tournois League of 
 ```bash
 pip install -r requirements.txt
 ```
-3. Créez un fichier `.env` à la racine du projet avec votre clé API Riot Games :
+3. Créez un fichier `.env` avec votre clé API :
 ```env
 API_KEY=RGAPI-your-api-key-here
 ```
@@ -22,82 +22,75 @@ API_KEY=RGAPI-your-api-key-here
 ## Structure du projet
 ```
 OccilanStats/
-├── data/                           # Dossier contenant les données JSON
-│   ├── pseudosOccilan#6.xlsx      # Fichier Excel avec les équipes
-│   └── *.json                     # Fichiers JSON générés
-├── output/                        # Dossier contenant les fichiers générés
-│   └── OccilanStats.xlsx         # Rapport final
-├── scripts/                       # Scripts Python
-└── main.py                       # Point d'entrée principal
+├── data/                     # Données JSON et Excel
+│   ├── pseudosOccilan#6.xlsx # Fichier des équipes
+│   ├── teams.json           # Équipes formatées
+│   ├── teams_with_puuid.json # Équipes avec PUUIDs
+│   ├── tournament_matches.json # IDs des matchs
+│   ├── match_details.json   # Détails des matchs
+│   └── general_stats.json   # Statistiques finales
+├── output/
+│   └── OccilanStats.xlsx    # Rapport final
+├── scripts/                 # Scripts Python
+└── main.py                 # Point d'entrée
 ```
 
-## Flux des données et fichiers JSON
+## Flux de données
 
 ### 1. Chargement des équipes
-- **Script** : `load_teams.py`
-- **Entrée** : `data/pseudosOccilan#6.xlsx`
-- **Sortie** : `data/teams.json`
-- **Format** : Liste des équipes et leurs joueurs
+- **Entrée** : `pseudosOccilan#6.xlsx`
+- **Sortie** : `teams.json`
+- **Description** : Conversion du fichier Excel en format JSON
 
 ### 2. Récupération des PUUIDs
-- **Script** : `fetch_puuid.py`
-- **Entrée** : `data/teams.json`
-- **Sortie** : `data/teams_with_puuid.json`
-- **Format** : Équipes avec PUUIDs des joueurs
+- **Entrée** : `teams.json`
+- **Sortie** : `teams_with_puuid.json`
+- **Description** : Ajout des identifiants Riot (PUUID)
 
 ### 3. Récupération des matchs
-- **Script** : `fetch_matches.py`
-- **Entrée** : `data/teams_with_puuid.json`
-- **Sortie** : `data/tournament_matches.json`
-- **Format** : Liste des IDs de match par équipe
+- **Entrée** : `teams_with_puuid.json`
+- **Sortie** : `tournament_matches.json`
+- **Description** : Liste des matchs du tournoi
 
 ### 4. Détails des matchs
-- **Script** : `fetch_match_details.py`
-- **Entrée** : `data/tournament_matches.json`
-- **Sortie** : `data/match_details.json`
-- **Format** : Détails complets des matchs
+- **Entrée** : `tournament_matches.json`
+- **Sortie** : `match_details.json`
+- **Description** : Données complètes des matchs
 
-### 5. Statistiques des équipes
-- **Script** : `analyze_match_stats.py`
-- **Entrée** : `data/match_details.json`, `data/teams_with_puuid.json`
-- **Sortie** : `data/team_stats.json`
-- **Format** : Statistiques par équipe et par joueur
+### 5. Statistiques générales
+- **Entrée** : `match_details.json`
+- **Sortie** : `general_stats.json`
+- **Description** : Toutes les statistiques calculées
 
-### 6. Statistiques générales
-- **Script** : `get_general_stats.py`
-- **Entrée** : `data/team_stats.json`
-- **Sortie** : `data/general_stats.json`
-- **Format** : Meilleures performances par catégorie
+### 6. Rapport Excel
+- **Entrée** : `general_stats.json`
+- **Sortie** : `OccilanStats.xlsx`
+- **Description** : Rapport final formatté
 
-### 7. Statistiques additionnelles
-- **Script** : `get_additional_stats.py`
-- **Entrée** : `data/match_details.json`
-- **Sortie** : `data/additional_stats.json`
-- **Format** : Statistiques globales du tournoi
-
-### 8. Génération Excel
-- **Script** : `create_excel.py`
-- **Entrée** : `data/general_stats.json`, `data/additional_stats.json`
-- **Sortie** : `output/OccilanStats.xlsx`
-- **Format** : Rapport Excel final
+## Statistiques calculées
+- Statistiques par joueur
+  - Kills/Deaths/Assists (total et moyenne)
+  - KDA moyen
+  - CS par minute
+  - Score de vision
+  - Champions joués
+- Statistiques par match
+  - Durée des parties
+  - Nombre de kills
+  - Vision score
+  - CS par minute
+- Statistiques des champions
+  - Picks
+  - Bans
+  - Winrates
 
 ## Utilisation
-1. Placez votre fichier Excel `pseudosOccilan#6.xlsx` dans le dossier `data/`
-2. Exécutez le script principal :
 ```bash
 python main.py
 ```
 
-## Statistiques calculées
-- Kills, morts et assistances moyens
-- CS par minute
-- Score de vision
-- Champions les plus joués/bannis
-- Durée des parties
-- Et plus encore...
-
 ## Contribution
-Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une issue ou une pull request.
+Les contributions sont les bienvenues via issues ou pull requests.
 
 ## Licence
 [MIT](LICENSE)
