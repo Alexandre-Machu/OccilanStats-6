@@ -3,445 +3,377 @@
         {
             "role": "Top",
             "player_name": "SeyZo",
-            "player_tag": "EUW",
-            "puuid": "k7WOs_KcaprKJVvojTw-JfdYx9agEiCuPJno5Fa7-UZ7R26um7FW7Ozbiqr-OZN7UEzSMtwM2wW2DA"
+            "player_tag": "EUW"
         },
         {
             "role": "Jungle",
             "player_name": "KayZzen",
-            "player_tag": "EUW",
-            "puuid": "q5AtBgOkJPsCHbFXV-2sMurwA8zuBEgXmcgDq4ruQsu5j312HoBNE_G0Xw8KysxH4AGzkLuJILCdgg"
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "Archimax",
-            "player_tag": "EUW",
-            "puuid": "Aw7-pmam3W_JqRAofWiyRoDVNs9bhN2soLXi4RMLLl8rLqgp-fSWLli8I_1geFpFIs5m2fsN7PYIVQ"
+            "player_tag": "EUW"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Redmynray",
-            "player_tag": "2485",
-            "puuid": "0i60OyV-c9iLkBlp28B_8ApNMjc1ilfV5R2CDiGLhr-1N3g-rWG_7PhuxzyiqonchDFf-VOPijYLCQ"
+            "player_tag": "2485"
         },
         {
             "role": "Support",
             "player_name": "Sumwo",
-            "player_tag": "EUW",
-            "puuid": "kuQ3Tsv_Ky1RQsYsQYC80QGZF7adAH819-KNx46r-iDgZwunPrcwDXiZZgp3gKW0Qkk6va7eJvAAzg"
+            "player_tag": "EUW"
         }
     ],
     "Burger Frites": [
         {
             "role": "Top",
             "player_name": "AUR Rettleti",
-            "player_tag": "PAFF",
-            "puuid": "IRU55SpnI5DHB7Zy3Zqo6GQQ4itP_11l8Bh-EFPNPlDMtR9C0o6hmgME1023YkBhCu9PdAgOGLxmnA"
+            "player_tag": "PAFF"
         },
         {
             "role": "Jungle",
             "player_name": "Sir Nathaniel",
-            "player_tag": "EUW",
-            "puuid": "DhRVqAZ0ZR3gEOwNgliTWfftoKOeQ2WrABdoSSLpX-SJb9_vsAKazHmUF0dR9GY7NXsYc7SBpTejvg"
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "AUR Azz",
-            "player_tag": "PUFF",
-            "puuid": "yfjPkaCDJeCSC6mj-sF2yOQa__tx47eICK0gSA8pDRJlBe1e2tT0N8cRxpmheZ9eoGvEBS_nz10gVg"
+            "player_tag": "PUFF"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "AUR Baosu",
-            "player_tag": "PUFF",
-            "puuid": "aiTrIbVRLr630UoUujKWLBcEwJa5q4E7CVLf0IKROi5OidD2hPic-MKxvS4P87NRM4pSYZocMt-XvA"
+            "player_tag": "PUFF"
         },
         {
             "role": "Support",
             "player_name": "Guts",
-            "player_tag": "math"
+            "player_tag": "00I"
         }
     ],
     "EC Emerald": [
         {
             "role": "Top",
             "player_name": "PurpuraCorvum",
-            "player_tag": "EUW",
-            "puuid": "YCWuIit6Sn-r5Xv06dN_J7SLd-g_70uJROeoPmZaXzaZeiEGjbYlACM6t1kLUWs_RJxB5-Y8J14_lw"
+            "player_tag": "EUW"
         },
         {
             "role": "Jungle",
             "player_name": "PFR SahDony",
-            "player_tag": "666",
-            "puuid": "pQkQ3KrvRUI7FO5AwfD_z8pgTdmW-3wkM0ccD0gkpwFtYQlHbn_s-U_RyAQPt1CxLniWNknVNcV1hw"
+            "player_tag": "666"
         },
         {
             "role": "Mid",
             "player_name": "galaeri",
-            "player_tag": "GALA",
-            "puuid": "ZlfVCLga8mbybYV5TOEZ47e3j845Qw9pCmNqn6Dar1OejbqxH3Mh4Jx83V8UlW_E8W3Q-MVY_cNQXg"
+            "player_tag": "GALA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Cygola",
-            "player_tag": "EUW",
-            "puuid": "e7VW007Qbp7rIQRwfddMDalyFog_3M2lhWLZOrN8xA1oWjNG9W83swUKxOFqWfa_Gv7g8PXAXYJpnw"
+            "player_tag": "EUW"
         },
         {
             "role": "Support",
             "player_name": "TwitchDartien",
-            "player_tag": "EUW",
-            "puuid": "yPT_ZPwp7l6a3DW6WrBj5Q0hTDKqZFRMC3tU1DWdKSejlqQovGA6P9UguCv4iXi_Ta1OT1Cp5GC1QA"
+            "player_tag": "EUW"
         }
     ],
     "GIRL POWDER": [
         {
             "role": "Top",
             "player_name": "Romsito",
-            "player_tag": "EUW31",
-            "puuid": "xWniAAwvPrgNOIh4NTFJ5nY414l70FDWfvop6gl-j0EgbAOS10GwoHLlJkNMkFddknbusPF8hG71nQ"
+            "player_tag": "EUW31"
         },
         {
             "role": "Jungle",
             "player_name": "Irisam",
-            "player_tag": "EUW",
-            "puuid": "NJ6Hpn3QBr6fIz6zjrfzneOG3XvL5zsAtiebEGezMhuVkFn8mX0gzO-9nL_9lp34lRFztxntV8WJQw"
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "Shunpo",
-            "player_tag": "ARA",
-            "puuid": "pTaO6u4pG9RryLJKh0fsfBOeR7nWA2GPex4AWYkxO6zmQJbsW6yfi0pqHA_G1VWKdmHGjFacnbuHOA"
+            "player_tag": "ARA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "fXto",
-            "player_tag": "EUW31",
-            "puuid": "VbhTvIck-jOHExvB6tv47ZBFtB13iNR8bwsRrsPXSctpAvgahUG25HXh9oPN4J7KfodP9rigBT2YeA"
+            "player_tag": "EUW31"
         },
         {
             "role": "Support",
             "player_name": "Lemonz",
-            "player_tag": "EUW31",
-            "puuid": "Gj3zF8KAUZyzGVee5Geb3RUTT9DO6QBs1OOfAjt6iffcVAPUHofaNwmfZS-gt8n2c-yNTGfeTzacsg"
+            "player_tag": "EUW31"
         }
     ],
     "Gungnir": [
         {
             "role": "Top",
             "player_name": "KiεtsuSama",
-            "player_tag": "EUW",
-            "puuid": "PLDF7-zyEjNwwoitqklwT0M-AdZjmwZZg5LRW8s0mWclp2CXSqoLZ1dpHF1wm2RZK_-55BHwxyBYug"
+            "player_tag": "EUW"
         },
         {
             "role": "Jungle",
-            "player_name": "ADC or junglelol",
-            "player_tag": "EUW",
-            "puuid": "J1Z-6jq73m-3zxJ8K19VYNQkVsTzDIZe9_AaB_GGXSlcqX3m1Xck0jMJDiwHQnHUmu3F7MyONE9lMQ"
+            "player_name": "spiro381231",
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "PFG Nice",
-            "player_tag": "NICE",
-            "puuid": "AcixIr9QTESdMHVuGcLX7YzjvB3NfV350EN6xyhr4GVZ8IgTcmYf7U-oPxMx6e87XOpoWGPF39-eew"
+            "player_tag": "NICE"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Wightt",
-            "player_tag": "EUW",
-            "puuid": "vywgxY7BeuYAo0tGrlKiLU4auefKDdU9FbabxzewtvNedCs1J3yGur2TdDUk0pjzpL_QtEZGlPMxiQ"
+            "player_tag": "EUW"
         },
         {
             "role": "Support",
             "player_name": "Bob Le Tripoteur",
-            "player_tag": "Coq1",
-            "puuid": "oPlyqDh-fhsdCrT1D9p3Zn5DCPSmJoEbXm7VIDdmTQbUB3geSyiNfHZ07hlad9Pbd_beYWdKxYwOag"
+            "player_tag": "Coq1"
         }
     ],
     "KCDQ": [
         {
             "role": "Top",
             "player_name": "KCDQ Braquemart",
-            "player_tag": "666",
-            "puuid": "PXauJJGf9FHhoBH4DOdIwdQwRWTE2IunteS7GSFxt0uuJuumT3qhx0ZVgshydWEFG9P1muN5STJu5Q"
+            "player_tag": "666"
         },
         {
             "role": "Jungle",
             "player_name": "KCDQ Bangala",
-            "player_tag": 666,
-            "puuid": "Of2XnRUzl8F2FoCtzXFNpLI3x94SIOPr6aBxm3-l24LE4tU77uhPR0UEYkLSBmAQ0Cz-lcagp18GwA"
+            "player_tag": "666"
         },
         {
             "role": "Mid",
             "player_name": "KCDQ Bazouzou",
-            "player_tag": "666",
-            "puuid": "AYe2JLE--4yG42whC5AxIsb-gdW2O-8chIGgHbJR3Nou-yZXXTtE8UdGSWc1dMQB-hzu5U1JzeqGsg"
+            "player_tag": "666"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "KCDQ Shlong",
-            "player_tag": "666",
-            "puuid": "G0rLDf20rQza9XozyJfT3GWhyYzPfGZtLXgWbJXai1JDRvF8jheOZLrwv3Ox9FKVXA4dqR9uH8n-Qg"
+            "player_tag": "666"
         },
         {
             "role": "Support",
             "player_name": "KCDQ matraque",
-            "player_tag": 666,
-            "puuid": "Ah6UbUC9Oo2RZUbj5YZxVUK4sZz2-h6exueNp1qq5nwyRATPJoLpBYa0m4RNSsl3-9FTm9G4k3op9A"
+            "player_tag": "666"
         }
     ],
     "La bande du PMU": [
         {
             "role": "Top",
             "player_name": "TPS Nother",
-            "player_tag": "EUW",
-            "puuid": "nyQYfuU0q6a97RALIi9p2fy5tFtQolUZA-UcHbHnQUdfTPVAF1P4AHRt9sjP5kx2PdoQFRsgihouSg"
+            "player_tag": "EUW"
         },
         {
             "role": "Jungle",
             "player_name": "Yashi",
-            "player_tag": "2104",
-            "puuid": "7LYcPiX9xO80EIrri2HoMyPP1bYOCw4Jve64J1XLme7a3e9wsyMijezcTva37hqOQ5c4ogwDS_GQNg"
+            "player_tag": "2104"
         },
         {
             "role": "Mid",
             "player_name": "Fox",
-            "player_tag": "EUWee",
-            "puuid": "-05W5exIGPxM1p9w5yBwVQHdhNisfUx3h31KQ4YltTd9ZHWjpLZ7NgFhMzosJbtNglClcpgf5ef1pw"
+            "player_tag": "EUWee"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "KDydoux",
-            "player_tag": "best",
-            "puuid": "TfYpHQp0UnQ0M-07ZOYa76uT5OnhCMDEpQZwN5N8FRdPajv2ET4TW2zJk0EqMC8pBjeH4RcIP6mOyQ"
+            "player_tag": "best"
         },
         {
             "role": "Support",
             "player_name": "manchou",
-            "player_tag": "euw",
-            "puuid": "cLH61FPAF9yVMd7X7CQdc2KXRdL1K57VwisPiPZGRN6R0FixVUq0LcTuu8fNcE0JkwULBnlioXQgqQ"
+            "player_tag": "euw"
         }
     ],
     "La Ruche": [
         {
             "role": "Top",
             "player_name": "Colfeo",
-            "player_tag": "EUW",
-            "puuid": "QeJhymObZO6iAA4vLGpzVONwLSRgJCIMhyCiqoVe7akfQ0YPxkqTZAPTaXmi_sOYb3HGz-PLOtZLGQ"
+            "player_tag": "EUW"
         },
         {
             "role": "Jungle",
             "player_name": "climber",
-            "player_tag": "EUW",
-            "puuid": "Y3H_77rbdzcXDSvOLWbyP1vokZvpbBMRDgaqELlmmHrIVmZZqBM1gEupvQfdYQpC8L2EEf9Z2gVpPQ"
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "Thaïs Morel",
-            "player_tag": "HYSTA",
-            "puuid": "px7dMwwjgORe2cAe5dvUuml9CY8BYQx3LEb4d2O9qeBLzlQsKCOI4h8XRqPJqyCl4f8cCdP4kQ9F3Q"
+            "player_tag": "HYSTA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Thibee",
-            "player_tag": "00000",
-            "puuid": "cViY7lIMmbKSqFEADSR9Xh3THiKF_zPm_-tSe0_GvZx7I20237kuRMeFBizwVbMHz823afAplKUpdA"
+            "player_tag": "00000"
         },
         {
             "role": "Support",
             "player_name": "Xintox",
-            "player_tag": "NERV",
-            "puuid": "4KOfAQJbp04ygHx9OcURq_S13HVkcT2zM5D53pHCY6JLP-1MuaYcZXd161XVyMhKePht0TochAYURg"
+            "player_tag": "NERV"
         }
     ],
     "La Sauce Du Chef": [
         {
             "role": "Top",
             "player_name": "Sphyrna zygaena",
-            "player_tag": "EUW",
-            "puuid": "OmpFWnC6anaTyxjA-ytUaGr421m-rF7iZhTBjgqwOuRJY7rJu24LsOfIVzbt5wsNOiuLpU4KO57LyA"
+            "player_tag": "EUW"
         },
         {
             "role": "Jungle",
             "player_name": "SkyFiree",
-            "player_tag": "EUW",
-            "puuid": "C5WEQ7dOhg-VLx9PiMQBHdwGBGBVriHe9xwBgWA9E5e4a807synNLf2AyOlCPrhC625CCFBPxdJUUA"
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "Louu",
-            "player_tag": "2310",
-            "puuid": "kSWsLOlV795cSsxDzbnrgKnwL787E2OnN45gvf1-4hpg8UQPgC39bBQpb8hs5-WEwhnESaLlyl0O-w"
+            "player_tag": "2310"
         },
         {
-            "role": "ADC",
-            "player_name": "TSP Toga280",
-            "player_tag": "EUW",
-            "puuid": "tiop-cuWRY7vi7Jn3JiIrGt8XwYCSX8fF3z6-gMcYONDhbEuQ36Qbup-E_7gziFua9I5VuL-oaGx3Q"
+            "role": "Adc",
+            "player_name": "nazyr",
+            "player_tag": "4324"
         },
         {
             "role": "Support",
-            "player_name": "Vicode",
-            "player_tag": "EUWFR",
-            "puuid": "6PST-i0iuoUaFdsOhXicfJNSVNu6lMyUzyoGFFnF5gTNEC0STQq90tmtTcnB8w5NME7lK3ZT1H1K3A"
+            "player_name": "LeMaquis2Caca",
+            "player_tag": "Prout"
         }
     ],
     "Les minorités": [
         {
             "role": "Top",
             "player_name": "SETTaismieuavant",
-            "player_tag": "EUW",
-            "puuid": "mr7BWO8A6914CQlgHBmkbQLjd623zpRf3Eg6uKTWPG6eIxh_7MHOmtXHVQHqBccnBG0C0cfvsX3d_Q"
+            "player_tag": "EUW"
         },
         {
             "role": "Jungle",
             "player_name": "Jules Grizzli",
-            "player_tag": 9348,
-            "puuid": "yVWZFQ8fFkZXSOxWpsdBYfg8so1wdAEF6t9xnOa_kywtYuy-zKFNLsrsW9IrN0j_6q6UIZp5Kxvagw"
+            "player_tag": "9348"
         },
         {
             "role": "Mid",
             "player_name": "noemiefeatmonkey",
-            "player_tag": "uwu",
-            "puuid": "UGW_ztlvfZc8fSThXkYhD7Xw3324Hq46_GcjsrYJyVtjWKlRDteg_9RCGiy3cgW4ZM1ZzEwTOLVm9A"
+            "player_tag": "uwu"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Quetzalcoatl",
-            "player_tag": "EUWTA",
-            "puuid": "soRWfz2W5sJLDRskzcaWpT2DsktOdpo9ood80qt0d8fxrYa-SCbGfr9x1sCC4kllrOMfJaVpwt87pQ"
+            "player_tag": "EUWTA"
         },
         {
             "role": "Support",
             "player_name": "Dragjoo",
-            "player_tag": "EUW",
-            "puuid": "BdVyEKsSWo3fGZZ_HC9CP-a0URt-HKPp5c96eJNaYu7QuNms_nI3G212mwS3RyoJfpWjQVhWLZarMA"
+            "player_tag": "EUW"
         }
     ],
     "LIONS GUARD": [
         {
             "role": "Top",
             "player_name": "DK 공백",
-            "player_tag": "KPOP",
-            "puuid": "yYojC3O6t43Ok-298c1DSzmuGnPfxG_kUSxZDcmnCH_ZnOqWhXoPVdFbcdfmBpeqEghq9Oz_E5Thmw"
+            "player_tag": "KPOP"
         },
         {
             "role": "Jungle",
             "player_name": "LG Aziαs",
-            "player_tag": "OGNAM",
-            "puuid": "UmvxZeqvCZLMtWCNK7G-Dbdf8j9Po0xIZtm9HIJ-jZSpB4gDiuLkCPUR1J3Oktx6Wi8zpm8yEUnAnQ"
+            "player_tag": "OGNAM"
         },
         {
             "role": "Mid",
             "player_name": "Zaliarell",
-            "player_tag": "EUW",
-            "puuid": "mJ-VbUPh4GByuNAichERpCvFhZfoKBxYTjCi4vovnVE7oB9PxfXJRClG3b8VBx--wzjpqxENYo4r7A"
+            "player_tag": "EUW"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "LG Isowix",
-            "player_tag": "0409",
-            "puuid": "UPDDz5CwACVUkpunplRLDe_uinjRs5wySfXA0hEZOjwG8dhU7yp_O8AqHoHjPv-TO6SVmGlihNi4eA"
+            "player_tag": "0409"
         },
         {
             "role": "Support",
             "player_name": "LG TwoT",
-            "player_tag": "7533",
-            "puuid": "PwrJemJl6B7szGvTR9WYaOmQj5dWE12jZRAhdK7nbfbYEYRxDGafz4-885ymwSxQD__AgYumI0EyyA"
+            "player_tag": "7533"
         }
     ],
     "Mickey Mouse Club": [
         {
             "role": "Top",
             "player_name": "rotten stray dog",
-            "player_tag": "euw",
-            "puuid": "0YrAqTqAIf9HJ0szz1VRBa47etFXg1Chsn_jmbByBvTr_dfRDWs1ia9M0As0VuJqD2IW1Un2anrUBQ"
+            "player_tag": "euw"
         },
         {
             "role": "Jungle",
             "player_name": "zinoleos",
-            "player_tag": "euw",
-            "puuid": "TV-dTo0xttL5YECERLIIorHw7gSaFXuPap3_ODERnGgVRhcSrxKMHWYh2gTX-zu9EQ4_cRI21q14Mg"
+            "player_tag": "euw"
         },
         {
             "role": "Mid",
             "player_name": "el pueblito",
-            "player_tag": "euw",
-            "puuid": "QwTzJKSBc5qlOCIrANjLFm0XhLPUZkt2clPsyUR2DtkfmK5HE5jheE2XVy-BHQ95PzNQfNF2mlf4Vw"
+            "player_tag": "euw"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "gourmetplantaire",
-            "player_tag": "sympa",
-            "puuid": "1AyKuXuaAMhMytZ3IILILQHvz2v0jvLdFNHQ0TubP2ZPYNEFY3Nu6tDdxbpKLZ1MW6fS-xyQbUIMHg"
+            "player_tag": "sympa"
         },
         {
             "role": "Support",
             "player_name": "Killycurly",
-            "player_tag": 420,
-            "puuid": "ZwFspWAKhc1McSIFlw8pxhVJUTur8pM1cL_0mPHX8WRgobkcosclnQip4G5pWkC15igHgtL4m6YcWg"
+            "player_tag": "420"
         }
     ],
     "Pas de quartier": [
         {
             "role": "Top",
             "player_name": "Spectror",
-            "player_tag": "BLOP",
-            "puuid": "2vDE0WXmTp1I-mJSDlGIPHfwoI7RN249WKPgihhyc1_nMYTQq9ZNbBaet7celNV_GApclgeb5AL19Q"
+            "player_tag": "BLOP"
         },
         {
             "role": "Jungle",
             "player_name": "zerkamaka6641",
-            "player_tag": "EUW",
-            "puuid": "hBn0hmP-YMd31TqahYTd7BmU-K3nze9zglhbiZxzJQ19MusjGxKJQj7P5N55dWzeIO06gpYwZhRrrw"
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "galaeri",
-            "player_tag": "GALA",
-            "puuid": "ZlfVCLga8mbybYV5TOEZ47e3j845Qw9pCmNqn6Dar1OejbqxH3Mh4Jx83V8UlW_E8W3Q-MVY_cNQXg"
+            "player_tag": "GALA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "LaGìrafe",
-            "player_tag": "Bibou",
-            "puuid": "GaGGAPLtfhe4t0Dp4cL8dFYLPKQAqvEEuB7FhsjrjM5OjRvSpn77zzAumX68nf9K3NnROUwakqAMmA"
+            "player_tag": "Bibou"
         },
         {
             "role": "Support",
             "player_name": "Cafard La Malice",
-            "player_tag": "KFAR",
-            "puuid": "vESDHvnqGKtC7m-Haru6uJFjmLpWejgQoEPiy8u-JymImoBzLhGJm0BHhsCitLq8HxS_NESCRGrasg"
+            "player_tag": "KFAR"
         }
     ],
     "PCS Genuise": [
         {
             "role": "Top",
             "player_name": "Beff",
-            "player_tag": "Meff",
-            "puuid": "SOMbcvH6gZ2IloW7GOv22hpDZK0KV-X0BtyHbzyTO9V5oW3tJBhh8Ooyd1hkzes8mFnaxjIsadQBPw"
+            "player_tag": "Meff"
         },
         {
             "role": "Jungle",
             "player_name": "Selkie rêve",
-            "player_tag": "EUW",
-            "puuid": "SZETmwoRSJTOHNceGpCwfpzku7Gv0CYoLXi2spLbXT1QjKU_8QVwg14glFQEm0mQfjjq9GmlsdaqIg"
+            "player_tag": "EUW"
         },
         {
             "role": "Mid",
             "player_name": "luxanna GilSayan",
-            "player_tag": "light",
-            "puuid": "J1QAYhLXuNYJBsWbBthWUROIzN8yWgE-IZJWv3nYXJYRcGsEfz6rbyMIaM5olQsBea0bMU3OTI4MBg"
+            "player_tag": "light"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Lasagna",
-            "player_tag": "EEPER",
-            "puuid": "TZnY2THBvxdBF2MGk4x2awRzEg0GWOwha8gUldKNOoVur4D-lwBVcH6QInYSqdaKbVC5a4cV56J9EQ"
+            "player_tag": "EEPER"
         },
         {
             "role": "Support",
-            "player_name": "The Chosen One",
+            "player_name": "I Love my Bf",
             "player_tag": "EUWW"
         }
     ],
@@ -449,64 +381,54 @@
         {
             "role": "Top",
             "player_name": "NEP Zerkome",
-            "player_tag": "EUW03",
-            "puuid": "9NHvV3I6_ybDmU6gwwM1_X0cajsIrcaueFrXu1VlBccRZHUQ5HSXzBBeFIvT5pG_7lTz_GoiCn6FdQ"
+            "player_tag": "EUW03"
         },
         {
             "role": "Jungle",
             "player_name": "caca anonyme 2",
-            "player_tag": "uno",
-            "puuid": "aJFTf0yvt7ErFV6vx84Xsjfc94F_ZIvCXrPU6JFungk_tHDOBL8bC0a-sAxjmgDTISVFJ0u1wVcVkA"
+            "player_tag": "uno"
         },
         {
             "role": "Mid",
             "player_name": "Tayme",
-            "player_tag": "euw",
-            "puuid": "7IHSVbsEfWNSgrJgk5UZzxQMzsREfxdRnUdgKIgW7a8hqyMVdfzz8oTVa6rScWSSPBJlakSRV1HJag"
+            "player_tag": "euw"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Onikiezi",
-            "player_tag": "euw",
-            "puuid": "ObmZKBdnAbkpHzM-6m5BkkI1Oau6SPJCbxCYs4P5pSp7pjIb4h_4QcjJ4k2sKKKErf0apT-MnSxQFA"
+            "player_tag": "euw"
         },
         {
             "role": "Support",
             "player_name": "RR D1",
-            "player_tag": "EUW",
-            "puuid": "HIONcLx95FyAe2cMatBLy7CM1oIb7G8r1hWCjeTYyvO0DKh04NXf6Zx6IaM5KDd03JroV8ydS4hU3w"
+            "player_tag": "EUW"
         }
     ],
     "zizicacacorp": [
         {
             "role": "Top",
             "player_name": "TRK",
-            "player_tag": "KCORP",
-            "puuid": "SXHYzq1RdCLZRoKdj08O_8_itl2kgyYl9qxE9m37xH-t2wIOOiGdpl902GweF2HNv5UcVdG50yUo6w"
+            "player_tag": "KCORP"
         },
         {
             "role": "Jungle",
             "player_name": "Ankhanatos",
-            "player_tag": "SAU6",
-            "puuid": "FBmo_vGLgDxthBTxJOGw1dxf93OnJr1ohFZrdYja18dUMu3u4MpyDE5hVlXSqSuy33UT_1e-gL5mfg"
+            "player_tag": "SAU6"
         },
         {
             "role": "Mid",
             "player_name": "MotorsKing",
-            "player_tag": "EUW",
-            "puuid": "Ah7Akl9Xp2bBxiiCprtzRDgpD4UV7Qi5YRPecbh4mB3T4g4M3qmhKH7b0DvS99Erv1fzUM-QBzu2Ug"
+            "player_tag": "EUW"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "ARTUEUR",
-            "player_tag": "RAT",
-            "puuid": "FyqXMjueyskWqEFu7Wq8FEAM-UNxPwvWmxU_G17TfmWaq3WU3C6NT9YOJvuVofCWg49X06KDgQG0WA"
+            "player_tag": "RAT"
         },
         {
             "role": "Support",
             "player_name": "Hingo",
-            "player_tag": "034",
-            "puuid": "ahhIhXTJcJbOZ70Hs1APlkDHJA5GI4QqESJPy0WyxRWK_f1SIEpfkmvbLz1rGiFEwodkSOvRxOUiHA"
+            "player_tag": "034"
         }
     ]
 }

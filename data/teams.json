@@ -16,7 +16,7 @@
             "player_tag": "EUW"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Redmynray",
             "player_tag": "2485"
         },
@@ -43,14 +43,14 @@
             "player_tag": "PUFF"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "AUR Baosu",
             "player_tag": "PUFF"
         },
         {
             "role": "Support",
             "player_name": "Guts",
-            "player_tag": "math"
+            "player_tag": "00I"
         }
     ],
     "EC Emerald": [
@@ -70,7 +70,7 @@
             "player_tag": "GALA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Cygola",
             "player_tag": "EUW"
         },
@@ -97,7 +97,7 @@
             "player_tag": "ARA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "fXto",
             "player_tag": "EUW31"
         },
@@ -115,7 +115,7 @@
         },
         {
             "role": "Jungle",
-            "player_name": "ADC or junglelol",
+            "player_name": "spiro381231",
             "player_tag": "EUW"
         },
         {
@@ -124,7 +124,7 @@
             "player_tag": "NICE"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Wightt",
             "player_tag": "EUW"
         },
@@ -143,7 +143,7 @@
         {
             "role": "Jungle",
             "player_name": "KCDQ Bangala",
-            "player_tag": 666
+            "player_tag": "666"
         },
         {
             "role": "Mid",
@@ -151,14 +151,14 @@
             "player_tag": "666"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "KCDQ Shlong",
             "player_tag": "666"
         },
         {
             "role": "Support",
             "player_name": "KCDQ matraque",
-            "player_tag": 666
+            "player_tag": "666"
         }
     ],
     "La bande du PMU": [
@@ -178,7 +178,7 @@
             "player_tag": "EUWee"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "KDydoux",
             "player_tag": "best"
         },
@@ -205,7 +205,7 @@
             "player_tag": "HYSTA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Thibee",
             "player_tag": "00000"
         },
@@ -232,14 +232,14 @@
             "player_tag": "2310"
         },
         {
-            "role": "ADC",
-            "player_name": "TSP Toga280",
-            "player_tag": "EUW"
+            "role": "Adc",
+            "player_name": "nazyr",
+            "player_tag": "4324"
         },
         {
             "role": "Support",
-            "player_name": "Vicode",
-            "player_tag": "EUWFR"
+            "player_name": "LeMaquis2Caca",
+            "player_tag": "Prout"
         }
     ],
     "Les minorités": [
@@ -251,7 +251,7 @@
         {
             "role": "Jungle",
             "player_name": "Jules Grizzli",
-            "player_tag": 9348
+            "player_tag": "9348"
         },
         {
             "role": "Mid",
@@ -259,7 +259,7 @@
             "player_tag": "uwu"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Quetzalcoatl",
             "player_tag": "EUWTA"
         },
@@ -286,7 +286,7 @@
             "player_tag": "EUW"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "LG Isowix",
             "player_tag": "0409"
         },
@@ -313,14 +313,14 @@
             "player_tag": "euw"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "gourmetplantaire",
             "player_tag": "sympa"
         },
         {
             "role": "Support",
             "player_name": "Killycurly",
-            "player_tag": 420
+            "player_tag": "420"
         }
     ],
     "Pas de quartier": [
@@ -340,7 +340,7 @@
             "player_tag": "GALA"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "LaGìrafe",
             "player_tag": "Bibou"
         },
@@ -367,13 +367,13 @@
             "player_tag": "light"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Lasagna",
             "player_tag": "EEPER"
         },
         {
             "role": "Support",
-            "player_name": "The Chosen One",
+            "player_name": "I Love my Bf",
             "player_tag": "EUWW"
         }
     ],
@@ -394,7 +394,7 @@
             "player_tag": "euw"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "Onikiezi",
             "player_tag": "euw"
         },
@@ -421,7 +421,7 @@
             "player_tag": "EUW"
         },
         {
-            "role": "ADC",
+            "role": "Adc",
             "player_name": "ARTUEUR",
             "player_tag": "RAT"
         },

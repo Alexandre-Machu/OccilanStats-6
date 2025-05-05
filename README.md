@@ -38,31 +38,37 @@ OccilanStats/
 ## Flux de données
 
 ### 1. Chargement des équipes
+- **Script** : `load_teams.py`
 - **Entrée** : `pseudosOccilan#6.xlsx`
 - **Sortie** : `teams.json`
 - **Description** : Conversion du fichier Excel en format JSON
 
 ### 2. Récupération des PUUIDs
+- **Script** : `fetch_puuid.py`
 - **Entrée** : `teams.json`
 - **Sortie** : `teams_with_puuid.json`
 - **Description** : Ajout des identifiants Riot (PUUID)
 
 ### 3. Récupération des matchs
+- **Script** : `fetch_matches.py`
 - **Entrée** : `teams_with_puuid.json`
 - **Sortie** : `tournament_matches.json`
 - **Description** : Liste des matchs du tournoi
 
 ### 4. Détails des matchs
+- **Script** : `analyze_match_stats.py`
 - **Entrée** : `tournament_matches.json`
 - **Sortie** : `match_details.json`
 - **Description** : Données complètes des matchs
 
 ### 5. Statistiques générales
+- **Script** : `get_stats.py`
 - **Entrée** : `match_details.json`
 - **Sortie** : `general_stats.json`
 - **Description** : Toutes les statistiques calculées
 
 ### 6. Rapport Excel
+- **Script** : `create_excel.py`
 - **Entrée** : `general_stats.json`
 - **Sortie** : `OccilanStats.xlsx`
 - **Description** : Rapport final formatté
